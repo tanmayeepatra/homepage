@@ -14,7 +14,7 @@ I am a Ph.D. student at NIT Rourkela...
 
 ## Research Interests
 
-- **Non-linear Dynamics and complex systems** %image recognition, image generation, video captioning
+- **Non-linear Dynamics and complex systems**
 - **Chaos Theory and Chaotic attractors** 
 - **Nambu Mechanics** 
 - **Billiard Dynamics** 
