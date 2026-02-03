@@ -1,8 +1,8 @@
 main:
 
   - title: Emergence of Multi-Scroll Attractors
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
+    authors: Tanmayee Patra, Biplab Ganguli
+    conference_short: ArXived
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
@@ -11,8 +11,8 @@ main:
     notes: Early Accept
 
   - title: Phase space geometry of a Four-wings chaotic attractor
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
+    authors: Tanmayee Patra, Biplab Ganguli
+    conference_short: ArXived
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
