@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National Institute of Technology, Rourkela...DRTDFTRDRTRETRRDT5RRDTR5D
+I am a Ph.D. student at National Institute of Technology, Rourkela...
 
 ## Education
 
-- B.Sc in Physics; Kendrapara Autonomous College, Kendrapara, Odisha, India; July 2012 - May 2015
-- M.Sc in Physics; College of Basic Science and Humanities, OUAT, Odisha, India; July 2015 - July 2017
 - Ph.D in Physics; National Institute of Technology, Rourkela, Odisha, India; July 2019 - (Continuing)
+- M.Sc in Physics; College of Basic Science and Humanities, OUAT, Odisha, India; July 2015 - July 2017
+- B.Sc in Physics; Kendrapara Autonomous College, Kendrapara, Odisha, India; July 2012 - May 2015
 
 ## Research Interests
 
