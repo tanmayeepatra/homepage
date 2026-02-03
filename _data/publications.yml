@@ -8,7 +8,7 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/FIG2.png
-    notes: Early Accept
+    notes: 
 
   - title: Phase space geometry of a Four-wings chaotic attractor
     authors: Tanmayee Patra, Biplab Ganguli
