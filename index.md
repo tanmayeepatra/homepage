@@ -4,31 +4,29 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at NIT...
+I am a Ph.D. student at NIT Rourkela...
 
 ## Education
 
-- Course: B.Sc in Physics
-    Place: Kendrapara Autonomous College, Kendrapara, Odisha
-    Date: July 2012 - May 2015
-- Course:  M.Sc in Physics
-    Place: College of Basic Science and Humanities, OUAT, Odisha, India
-    Date: July 2015 - July 2017
-- Course:  PH.D in Physics
-    Place: National Institute of Technology, Rourkela, Odisha, India
-    Date: July 2019 - (Continuing)
+- B.Sc in Physics; Kendrapara Autonomous College, Kendrapara, Odisha, India; July 2012 - May 2015
+- M.Sc in Physics; College of Basic Science and Humanities, OUAT, Odisha, India; July 2015 - July 2017
+- Ph.D in Physics; National Institute of Technology, Rourkela, Odisha, India; July 2019 - (Continuing)
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Non-linear Dynamics and complex systems** %image recognition, image generation, video captioning
+- **Chaos Theory and Chaotic attractors** 
+- **Nambu Mechanics** 
+- **Billiard Dynamics** 
 
-## Academics
+## Conferences and Schools
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2024]** I presented a poster in confererence entitled **60 Years of DFT: Advancements in Theory & Computations** at IIT Mandi, India!
+- **[2024]** I presented a poster in symposium entitled **High Performance Computing(HPC) Symposium** at NIT Rourkela, India!
+- **[2023]** I participated (online) in a school on **Integrability, Deformations and Chaos** organized by OIST, Onna, Okinawa, Japan!
+- **[2022]** I participated (online) in a school on **Complex Lagrangian Problems of Particles in Flows** organized by ICTS-TIFT, India!
+- **[2022]** I participated (online) in a school entitled **Spring College in the Physics of Complex Systems** organized by ICTP, Trieste, Italy!
+
 
 {% include_relative _includes/publications.md %}
 
