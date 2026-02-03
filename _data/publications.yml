@@ -5,21 +5,12 @@ main:
     conference_short: arXived
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: 
+    code: https://github.com/yaoyao-liu/class-in
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/FIG2.png
     notes: 
 
-  - title: Phase space geometry of a Four-wings chaotic attractor
-    authors: Tanmayee Patra, Biplab Ganguli
-    conference_short: arXived
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: 
-    page: 
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
-    image: ./assets/img/fig6.png
+  
 
  - title: Phase space geometry of a Four-wings chaotic attractor
     authors: Tanmayee Patra, Biplab Ganguli
@@ -29,5 +20,5 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: 
     image: ./assets/img/fig6.png
