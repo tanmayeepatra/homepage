@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at NIT Rourkela...
+I am a Ph.D. student at National Institute of Technology, Rourkela...
 
 ## Education
 
