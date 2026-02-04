@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela...fghfhgg 
+
 ## Education
 
 - Ph.D in Physics; National Institute of Technology, Rourkela, Odisha, India; July 2019 - (Continuing)
@@ -26,11 +27,6 @@ I am a Ph.D. student in the Department of Physics and Astronomy at National Inst
 - **[2023]** I participated (online) in a school on **"Integrability, Deformations and Chaos"** organized by OIST, Onna, Okinawa, Japan!
 - **[2022]** I participated (online) in a school on **"Complex Lagrangian Problems of Particles in Flows"** organized by ICTS-TIFT, India!
 - **[2022]** I participated (online) in a school entitled **"Spring College in the Physics of Complex Systems"** organized by ICTP, Trieste, Italy!
-
-## Courses
-
-- I have worked as teaching assistant in NITR for the course PH1007 (for B.Tech students).
-
 
 
 {% include_relative _includes/publications.md %}
