@@ -37,6 +37,11 @@ accounting their gross topological aspects. Along with that I have studied chaot
 - **[2022]** I participated (online) in a school on **"Complex Lagrangian Problems of Particles in Flows"** organized by ICTS-TIFT, India!
 - **[2022]** I participated (online) in a school entitled **"Spring College in the Physics of Complex Systems"** organized by ICTP, Trieste, Italy!
 
+## Courses
+
+- I have worked as teaching assistant in NITR for the course PH1007 (for B.Tech students).
+
+
 
 {% include_relative _includes/publications.md %}
 

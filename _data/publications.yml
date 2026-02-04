@@ -20,11 +20,11 @@ main:
     image: ./assets/img/fig6.png
     notes:
 
-- title: Billiards
+- title: Billiard dynamics
     authors: Pranaya Pratik Das, Tanmayee Patra, Biplab Ganguli
     conference_short: arXived
-    conference: Under review
-    pdf: https://arxiv.org/html/2507.07577v1.pdf
+    conference: Under reviews
+    pdf: https://arxiv.org/html/2501.08839v3.pdf
     code: 
     bibtex: 
     image: ./assets/img/Fig_5.png
