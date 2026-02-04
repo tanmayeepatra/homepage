@@ -5,7 +5,7 @@ main:
     conference_short: arXived
     conference: Under review
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: 
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/FIG2.png
     notes: 
@@ -15,7 +15,7 @@ main:
     conference_short: arXived
     conference: Under review
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: 
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/fig6.png
     notes:
