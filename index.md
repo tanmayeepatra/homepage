@@ -30,4 +30,4 @@ I am a Ph.D. student at National Institute of Technology, Rourkela...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
