@@ -14,6 +14,7 @@ with the chaotic system and the localization boundaries of the attractor is also
 framework can be extended to include dissipation in R3 phase-space and we demonstrate that the dissipative Nambu dynamics give rise to the chaotic orbits
  of the strange attractor in a very intuitive manner accounting their gross topological aspects. Along with that I have studied chaotic dynamics and generated 
 possible caustics in case of mixed curvature billiards.
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
