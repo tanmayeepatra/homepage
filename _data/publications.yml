@@ -20,12 +20,3 @@ main:
     image: ./assets/img/4wing.jpg
     notes:
 
-- title: Emergence of Multi-Scroll Attractors
-    authors: Tanmayee Patra, Biplab Ganguli
-    conference_short: arXiv
-    conference: Under review
-    pdf: https://arxiv.org/pdf/2511.13332.pdf
-    code: 
-    bibtex: 
-    image: ./assets/img/FIG2.png
-    notes: 
