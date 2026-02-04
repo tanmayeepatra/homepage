@@ -20,12 +20,12 @@ main:
     image: ./assets/img/4wing.jpg
     notes:
 
-- title:  chaotic attractor
+- title: Emergence of Multi-Scroll Attractors
     authors: Tanmayee Patra, Biplab Ganguli
     conference_short: arXiv
     conference: Under review
-    pdf: https://arxiv.org/html/2507.07577v1.pdf
+    pdf: https://arxiv.org/pdf/2511.13332.pdf
     code: 
     bibtex: 
-    image: ./assets/img/fig6.jpg
-    
+    image: ./assets/img/FIG2.png
+    notes: 
