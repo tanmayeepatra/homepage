@@ -21,11 +21,11 @@ I am a Ph.D. student at National Institute of Technology, Rourkela...
 
 ## Conferences and Schools
 
-- **[2024]** I presented a poster in confererence entitled **60 Years of DFT: Advancements in Theory & Computations** at IIT Mandi, India!
-- **[2024]** I presented a poster in symposium entitled **High Performance Computing(HPC) Symposium** at NIT Rourkela, India!
-- **[2023]** I participated (online) in a school on **Integrability, Deformations and Chaos** organized by OIST, Onna, Okinawa, Japan!
-- **[2022]** I participated (online) in a school on **Complex Lagrangian Problems of Particles in Flows** organized by ICTS-TIFT, India!
-- **[2022]** I participated (online) in a school entitled **Spring College in the Physics of Complex Systems** organized by ICTP, Trieste, Italy!
+- **[2024]** I presented a poster in confererence entitled **''60 Years of DFT: Advancements in Theory & Computations''** at IIT Mandi, India!
+- **[2024]** I presented a poster in symposium entitled **''High Performance Computing(HPC) Symposium''** at NIT Rourkela, India!
+- **[2023]** I participated (online) in a school on **''Integrability, Deformations and Chaos''** organized by OIST, Onna, Okinawa, Japan!
+- **[2022]** I participated (online) in a school on **''Complex Lagrangian Problems of Particles in Flows''** organized by ICTS-TIFT, India!
+- **[2022]** I participated (online) in a school entitled **''Spring College in the Physics of Complex Systems''** organized by ICTP, Trieste, Italy!
 
 
 {% include_relative _includes/publications.md %}
