@@ -4,31 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela... 
-
-## Education
-
-- Ph.D in Physics; National Institute of Technology, Rourkela, Odisha, India; July 2019 - (Continuing)
-- M.Sc in Physics; College of Basic Science and Humanities, OUAT, Odisha, India; July 2015 - July 2017
-- B.Sc in Physics; Kendrapara Autonomous College, Kendrapara, Odisha, India; July 2012 - May 2015
+I am a Ph.D. student at ...hgjhujhuhujhujh
 
 ## Research Interests
 
-- **Non-linear Dynamics in complex systems**
-- **Chaos Theory and Chaotic attractors** 
-- **Nambu Mechanics** 
-- **Billiard Dynamics** 
-- **Chaos in Gaussian perturbed systems** 
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## Conferences and Schools
+## News
 
-- **[2024]** I presented a poster in confererence entitled **"60 Years of DFT: Advancements in Theory & Computations"** at IIT Mandi, India!
-- **[2024]** I presented a poster in symposium entitled **"High Performance Computing(HPC) Symposium"** at NIT Rourkela, India!
-- **[2023]** I participated (online) in a school on **"Integrability, Deformations and Chaos"** organized by OIST, Onna, Okinawa, Japan!
-- **[2022]** I participated (online) in a school on **"Complex Lagrangian Problems of Particles in Flows"** organized by ICTS-TIFT, India!
-- **[2022]** I participated (online) in a school entitled **"Spring College in the Physics of Complex Systems"** organized by ICTP, Trieste, Italy!
-
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
-
+{% include_relative _includes/services.md %}
