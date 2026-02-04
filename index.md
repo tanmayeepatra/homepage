@@ -28,6 +28,9 @@ I am a Ph.D. student in the Department of Physics and Astronomy at National Inst
 - **[2022]** I participated (online) in a school on **"Complex Lagrangian Problems of Particles in Flows"** organized by ICTS-TIFT, India!
 - **[2022]** I participated (online) in a school entitled **"Spring College in the Physics of Complex Systems"** organized by ICTP, Trieste, Italy!
 
+## Courses
+
+
 {% include_relative _includes/publications.md %}
 
 
