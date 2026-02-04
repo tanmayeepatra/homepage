@@ -30,6 +30,8 @@ I am a Ph.D. student in the Department of Physics and Astronomy at National Inst
 
 ## Courses
 
+- I have worked as teaching assistant in NITR for the course PH1007 (for B.Tech students).
+
 
 {% include_relative _includes/publications.md %}
 
