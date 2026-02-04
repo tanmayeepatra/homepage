@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela... 
+I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela. I am persuing my research in the field of nonlinear
+ dynamics, which is at the heart of the modern interdisciplinary approach to science. 
 
 ## Education
 
