@@ -20,12 +20,12 @@ main:
     image: ./assets/img/fig6.png
     notes:
 
-- title: Billiard
+- title: Billiards
     authors: Pranaya Pratik Das, Tanmayee Patra, Biplab Ganguli
     conference_short: arXived
     conference: Under review
     pdf: https://arxiv.org/html/2507.07577v1.pdf
     code: 
     bibtex: 
-    image: ./assets/img/fig6.png
+    image: ./assets/img/Fig_5.png
     notes:
