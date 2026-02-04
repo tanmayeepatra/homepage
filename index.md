@@ -29,4 +29,4 @@ possible caustics in case of mixed curvature billiards.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
