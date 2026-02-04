@@ -20,7 +20,7 @@ main:
     image: ./assets/img/fig6.png
     notes:
 
-- title: Billiard dynamics
+- title: Classical and quantum chaos in bean- and peanut-shaped billiards
     authors: Pranaya Pratik Das, Tanmayee Patra, Biplab Ganguli
     conference_short: arXived
     conference: Under reviews
