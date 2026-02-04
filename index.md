@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela... 
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
