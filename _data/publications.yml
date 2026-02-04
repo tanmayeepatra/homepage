@@ -6,7 +6,7 @@ main:
     conference: Under review
     pdf: https://arxiv.org/pdf/2511.13332.pdf
     code: 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: 
     image: ./assets/img/FIG2.png
     notes: 
 
@@ -16,6 +16,6 @@ main:
     conference: Under review
     pdf: https://arxiv.org/html/2507.07577v1.pdf
     code: 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: 
     image: ./assets/img/fig6.png
     notes:
