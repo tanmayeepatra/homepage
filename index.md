@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela...fghfhgg 
+I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela... 
 
 ## Education
 
@@ -14,11 +14,11 @@ I am a Ph.D. student in the Department of Physics and Astronomy at National Inst
 
 ## Research Interests
 
-- Non-linear Dynamics in complex systems
-- Chaos Theory and Chaotic attractors 
-- Nambu Mechanics 
-- Billiard Dynamics 
-- Chaos in Gaussian perturbed systems 
+- **Non-linear Dynamics in complex systems**
+- **Chaos Theory and Chaotic attractors** 
+- **Nambu Mechanics** 
+- **Billiard Dynamics** 
+- **Chaos in Gaussian perturbed systems** 
 
 ## Conferences and Schools
 
