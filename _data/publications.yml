@@ -13,7 +13,7 @@ main:
   - title: Phase space geometry of a Four-wing chaotic attractor
     authors: Tanmayee Patra, Biplab Ganguli
     conference_short: arXived
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
