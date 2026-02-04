@@ -3,22 +3,22 @@ main:
   - title: Emergence of Multi-Scroll Attractors
     authors: Tanmayee Patra, Biplab Ganguli
     conference_short: arXived
-    conference: 
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/yaoyao-liu/class-in
+    code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/FIG2.png
-    notes: 
+    notes: Early Accept 
 
   
 
  - title: Phase space geometry of a Four-wings chaotic attractor
     authors: Tanmayee Patra, Biplab Ganguli
     conference_short: arXived
-    conference: 
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: 
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/fig6.png
+    notes: Early Accept 
+    
