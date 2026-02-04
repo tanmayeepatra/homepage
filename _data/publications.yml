@@ -2,7 +2,7 @@ main:
 
   - title: Emergence of Multi-Scroll Attractors
     authors: Tanmayee Patra, Biplab Ganguli
-    conference_short: arXived
+    conference_short: arXiv
     conference: Under review
     pdf: https://arxiv.org/pdf/2511.13332.pdf
     code: 
@@ -12,7 +12,7 @@ main:
 
   - title: Phase space geometry of a Four-wing chaotic attractor
     authors: Tanmayee Patra, Biplab Ganguli
-    conference_short: arXived
+    conference_short: arXiv
     conference: Under review
     pdf: https://arxiv.org/html/2507.07577v1.pdf
     code: 
@@ -22,7 +22,7 @@ main:
 
 - title: Classical and quantum chaos in bean- and peanut-shaped billiards
     authors: Pranaya Pratik Das, Tanmayee Patra, Biplab Ganguli
-    conference_short: arXived
+    conference_short: arXiv
     conference: Under review
     pdf: https://arxiv.org/html/2501.08839v3.pdf
     code: 
