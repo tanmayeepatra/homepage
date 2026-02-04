@@ -5,7 +5,8 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student in the Department of Physics and Astronomy at National Institute of Technology, Rourkela. I am persuing my research in the field of nonlinear
- dynamics, which is at the heart of the modern interdisciplinary approach to science. 
+ dynamics, which is at the heart of the modern interdisciplinary approach to science. More precisely, I am analyzing both conservative and dissipative chaotic dynamical systems by means of some of the diagnostic tools such as bifurcation diagram, Lyapunov characteristic exponents,
+ Poincar´e maps, power spectrum, fractal dimensions etc. to measure the extent of chaos. 
 
 ## Education
 
