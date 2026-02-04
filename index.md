@@ -8,9 +8,9 @@ I am a Ph.D. student in the Department of Physics and Astronomy at National Inst
 
 ## Education
 
-- Ph.D in Physics; National Institute of Technology, Rourkela, Odisha, India; July 2019 - (Continuing)
-- M.Sc in Physics; College of Basic Science and Humanities, OUAT, Odisha, India; July 2015 - July 2017
-- B.Sc in Physics; Kendrapara Autonomous College, Kendrapara, Odisha, India; July 2012 - May 2015
+- Ph.D in Physics;  National Institute of Technology, Rourkela, Odisha, India;  July 2019 - (Continuing)
+- M.Sc in Physics;  College of Basic Science and Humanities, OUAT, Odisha, India;  July 2015 - July 2017
+- B.Sc in Physics;  Kendrapara Autonomous College, Kendrapara, Odisha, India;  July 2012 - May 2015
 
 ## Research Interests
 
