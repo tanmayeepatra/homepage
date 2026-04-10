@@ -4,7 +4,7 @@ main:
     authors: Tanmayee Patra, Biplab Ganguli
     conference_short: Published
     conference: Physica Scripta
-    pdf:https://iopscience.iop.org/article/10.1088/1402-4896/ae465b/pdf
+    pdf: https://iopscience.iop.org/article/10.1088/1402-4896/ae465b/pdf
     code: 
     bibtex: 
     image: ./assets/img/FIG2.png
